@@ -608,5 +608,3 @@ var aos = {
 };
 
 export default aos;
-
-
